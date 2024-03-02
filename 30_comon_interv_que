@@ -1,0 +1,75 @@
+1. Tell us about yourself 
+
+My background began in the sciences, holding a National Diploma in Analytical Chemistry. My 3+ years as a Quality Assurance Analyst in a laboratory setting involved following detailed procedures, documenting results, and a focus on problem-solving.  
+
+I'm currently completing a project-based full-stack software engineering program and I'm eager to start my career as an entry-level software engineer. I'm proficient in Python, have working knowledge of data structures and algorithms, and am actively learning system engineering and DevOps principles.  
+
+This includes earning my AWS Cloud Quest badge and completing hands-on projects and deploying on AWS EC2. I've also explored microservices, Docker, and Kubernetes using minikube  for local testing.  
+
+My transition into software development is driven by my passion for technology and the satisfaction of building solutions. I'm particularly drawn to optimizing processes through codes. 
+
+ 
+
+2. What programming languages are you proficient in? 
+
+
+My strongest foundation is in Python. I've used it extensively for web development projects with the Django framework, including a learning log and a backend for a multivendor store.  
+
+This has given me hands-on experience with data modeling, user interactions, and the back-end components of web applications. Additionally, my background in C from my ALX coursework has given me a solid understanding of data structures, algorithms, and how software interacts with systems at a lower level. 
+
+I'm especially eager to build upon my skills and learn JavaScript, as I understand its importance in modern software development and integration work. 
+
+
+2. Can you describe your experience with version control systems, such as Git? 
+
+
+I have a working understanding of Git for version control. Through my coursework and project work, I've used core Git commands for tasks like: 
+
+Committing and pushing changes: Staging commits, pushing updates, and maintaining a project's history. 
+
+Basic branching and collaboration: Creating branches for different features and merging them back into the main line of development. 
+
+Resolving merge conflicts: I've had some experience with resolving basic merge conflicts that arise during collaboration. 
+
+I'm aware of Git's importance in software development and integration, especially for team collaboration and maintaining code integrity. I'm eager to deepen my Git 
+
+expertise, learning more advanced concepts like rebasing, complex workflows, and how Git is used in larger collaborative environments. 
+
+
+3. Have you ever worked with Agile methodologies? If so, what was your role in the team? 
+
+I haven't directly worked within a formal Agile methodology like Scrum or Kanban. However, I've applied some of the core principles in my projects and
+previous experiences: 
+Iterative Approach: In my [Django project name], I broke down work into smaller, manageable tasks, focusing on delivering functioning aspects of the application throughout development. 
+Adaptability: During quality assurance, requirements sometimes changed. I learned to adjust testing plans accordingly and communicate updates effectively. 
+Collaboration: In my group coursework, we regularly discussed progress and challenges, working together to find solutions. 
+
+I understand the importance of agile methodologies in software development, and I'm eager to learn and participate in a fully agile environment. With my existing skills and
+mindset, I believe I can quickly become a valuable contributor to an agile team." 
+
+
+4. Describe a project where you had to work with a database. Which database management system did you use and why? 
+
+ 
+
+One of my projects involved designing and interacting with both traditional and document-oriented databases within a microservices architecture.
+Let me tell you about the key components: 
+Microservice Structure: I built separate microservices for user authentication and media storage to promote modularity and scalability. 
+Relational Database (PostgreSQL): For the authentication service, I used PostgreSQL. Its structured nature and
+support for relational data was ideal for managing user information, roles, and permissions. I designed database schemas, wrote SQL queries,
+and implemented robust data validation mechanisms. 
+Document-Oriented Database (MongoDB): For storing and serving media files, I chose MongoDB with GridFS. Its flexibility in handling a variety of file types and
+sizes made it a good fit for this purpose. 
+
+Why This Approach: 
+This experience taught me the strengths of different database technologies and how to choose the right tool for specific requirements within a microservices system. 
+I gained practical experience with both SQL and MongoDB's query mechanisms, and I understand the importance of data consistency and performance considerations in a distributed environment. 
+
+5. Explain the concept of object-oriented programming. 
+
+Object-oriented programming (OOP) is a programming paradigm that uses objects, which are instances of classes, to represent and manipulate data.
+The core concept behind OOP is the encapsulation of both data and functions within these objects.
+This approach promotes modularity, making it easier to maintain and scale software applications. 
+Classes define the structure and behavior of objects, including their properties (data attributes) and methods (functions).
+Objects created from these classes can interact with one another through method calls, allowing for efficient communication between different parts of an application. Key principles of OOP include inheritance, where new classes can inherit properties and methods from existing ones; polymorphism, which allows objects of different classes to be treated as objects of a common superclass; and abstraction, which simplifies complex systems by breaking them down into smaller, more manageable components. 
+These principles help developers create flexible, reusable, and organized code. 
